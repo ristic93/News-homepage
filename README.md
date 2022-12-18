@@ -1,4 +1,4 @@
-# News homepage
+# Frontend Mentor - News Homepage
 
 This project is made as a practice for Frontend Mentor challenges. Made using React.js, Vite.js and Tailwind.
 
